@@ -1,0 +1,9 @@
+Day 3 Session 1: Conditional statements — if, elif, else
+
+- if runs when condition is True
+- elif checks a second condition if the first is False
+- else runs when nothing above is True
+- Indentation is not optional — it defines what belongs inside each block
+- and requires both conditions to be True
+- or requires at least one condition to be True
+- Conditionals make code intelligent — it responds to data values
