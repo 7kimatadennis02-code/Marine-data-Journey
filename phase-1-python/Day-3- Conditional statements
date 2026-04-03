@@ -1,0 +1,18 @@
+Day 3 Session 1: Conditional statements — if, elif, else
+
+- if runs when condition is True
+- elif checks a second condition if the first is False
+- else runs when nothing above is True
+- Indentation is not optional — it defines what belongs inside each block
+- and requires both conditions to be True
+- or requires at least one condition to be True
+- Conditionals make code intelligent — it responds to data values
+
+## Reflection  Session 2
+
+- Conditionals classify real data into meaningful categories
+- Multiple elif levels create detailed classification systems
+- Combining scores into an average then classifying gives an overall picture
+- Boolean variables work directly in if statements without comparison operators
+- String comparisons work the same way as number comparisons
+- Every marine parameter can be given a threshold and classified automatically
