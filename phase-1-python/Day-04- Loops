@@ -1,0 +1,11 @@
+## Reflection — Day 4 Session 1
+
+- for loops repeat through a known collection or range
+- while loops repeat until a condition becomes False
+- Conditionals inside loops make each repetition intelligent
+- Accumulator variables collect results across all repetitions
+- break stops a loop early when a condition is met
+- continue skips one item and moves to the next
+- Loops are essential for processing datasets automatically
+
+  
