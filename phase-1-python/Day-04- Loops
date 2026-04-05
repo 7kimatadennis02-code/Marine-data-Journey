@@ -9,3 +9,12 @@
 - Loops are essential for processing datasets automatically
 
   
+## Reflection — Day 4 Session 2
+
+- enumerate() gives both index and value in a loop
+- Nested lists can be unpacked directly in a for loop
+- Accumulator variables track running totals and counts
+- Lists like rare_species and alert_sites collect flagged items
+- Loops replace hundreds of manual checks with a few lines
+- Combining loops, conditionals and variables solves real problems
+- Formatting output with :> and :< aligns columns cleanly
