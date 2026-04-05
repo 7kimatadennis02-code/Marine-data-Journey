@@ -1,1 +1,11 @@
+## Reflection — Day 5 Session 1
+
+- def defines a function — it does not run it
+- Parameters are the inputs a function receives
+- return sends the result back to wherever the function was called
+- Functions with conditionals inside make intelligent reusable tools
+- Default parameters make functions flexible without requiring all inputs
+- Functions can return multiple values at once
+- Calling a function inside another function builds powerful toolkits
+- One change to a function updates every place it is used
 
