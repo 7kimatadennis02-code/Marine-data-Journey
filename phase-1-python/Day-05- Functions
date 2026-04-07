@@ -9,3 +9,14 @@
 - Calling a function inside another function builds powerful toolkits
 - One change to a function updates every place it is used
 
+
+## Reflection — Day 5 Session 2
+
+- A toolkit is a collection of small focused functions
+- Each function does ONE job well
+- Scoring functions return numbers that other functions can use
+- Functions make complex analysis readable and organized
+- The same function works on any site just by changing the input
+- zone_counts dictionary counts how many times each zone appears
+- .items() loops through both keys and values of a dictionary
+- Building functions now means less repetition in pandas and R later
