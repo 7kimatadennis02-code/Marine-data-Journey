@@ -11,3 +11,13 @@
 - .items() loops through both keys and values of a dictionary
 - & intersection, | union, - difference are powerful set operations
 
+## Reflection — Day 6 Session 2
+
+- List of dictionaries builds a proper data table structure
+- Dictionaries inside loops let you access any field by name
+- Sets compare groups of species across surveys efficiently
+- Tuples inside dictionaries store coordinates safely
+- Accumulating into a dictionary groups data by category
+- .values() gets all values from a dictionary
+- .join() connects list items into a single string
+- Collections are the foundation of how pandas stores data
