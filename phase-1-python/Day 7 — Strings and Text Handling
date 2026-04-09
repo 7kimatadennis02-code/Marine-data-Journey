@@ -1,0 +1,24 @@
+## Reflection — Day 7 Session 1
+
+- Strings are indexed starting at 0
+- Negative indexes count from the end — [-1] is last character
+- Slicing [start:end] extracts a portion of a string
+- .strip() removes whitespace from both ends
+- .lower() .upper() .title() standardize capitalisation
+- .replace() swaps one substring for another
+- .split() breaks a string into a list
+- .join() connects a list back into a string
+- 'in' checks if a substring exists
+- .find() returns the position of a substring
+- String cleaning is one of the most used skills in real data work
+
+## Reflection — Day 7 Session 2
+
+- .strip().title() is the standard cleaning combination
+- set() after standardizing removes all duplicates
+- sorted() puts a set or list in alphabetical order
+- .split("|") parses structured data rows
+- float() converts a string number to a float for calculations
+- Multi-line strings use triple quotes
+- .lower().count() does case-insensitive keyword searching
+- String parsing is exactly what happens when pandas reads a CSV
